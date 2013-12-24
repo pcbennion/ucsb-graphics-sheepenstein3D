@@ -1,5 +1,5 @@
+Peter Bennion
 CS180: Computer Graphics
-
 Projects 1 - 3 : Sheepenstein 3D
 
 Submission is designed to be run on the computers at
